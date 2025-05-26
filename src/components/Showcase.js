@@ -14,27 +14,9 @@ const Showcase = () => {
         <p className="showcase-para p-color">
           Multi-purpose discord bot with 150+ commands, 24/7 uptime, and a lot of features!
         </p>
-        <Image
-          src={botOnlineStatus}
-          width={40}
-          height={40}
-          alt="online-status"
-          className="onlineStatus"
-        />{" "}
-        <span className="p-color">Bot is online!</span>
-        <div className="showcase-btn">
-          <button className="btn">
-            <Link className="h-color no-decoration" href="https://dsc.gg/invite-givabot">
-              Invite now!
-            </Link>
-          </button>
-
-          <button className="btn">
-            <Link className="h-color no-decoration" href="https://discord.gg/X7VTsN7G64">
-              Join server!
-            </Link>
-          </button>
-        </div>
+        <h3 className="retirement-message h-color">
+          Giva Bot is now retired. Thank you for your support!
+        </h3>
       </main>
     </>
   );
