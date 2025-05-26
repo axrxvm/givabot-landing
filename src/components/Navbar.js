@@ -23,7 +23,7 @@ const Navbar = () => {
             <li>
               <Link
                 className="p-color"
-                href="https://github.com/AaravMehta59/giva-landing"
+                href="https://github.com/axrxvm/giva-landing"
                 target="_blank"
               >
                 /source-code

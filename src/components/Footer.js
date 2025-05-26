@@ -18,12 +18,12 @@ const Footer = () => {
           <div className="footer-items">
             <ul>
               <li>
-                <Link className="p-color" href="https://discord.gg/X7VTsN7G64">
+                <Link className="p-color" href="https://discord.gg/7MQczhh2pS">
                   /support
                 </Link>
               </li>
               <li>
-                <Link className="p-color" href="https://discord.gg/X7VTsN7G64">
+                <Link className="p-color" href="https://discord.gg/7MQczhh2pS">
                   /discord-server
                 </Link>
               </li>
@@ -36,7 +36,7 @@ const Footer = () => {
             <p className="p-color">
               Created with ❤️ by{" "}
               <Link
-                href="https://aaravm.me/"
+                href="https://aarav.is-a.dev/"
                 className="h-color no-decoration"
               >
                 Aarav Mehta
@@ -45,17 +45,17 @@ const Footer = () => {
             <p className="p-color">{year} &copy; All rights reserved!</p>
           </div>
           <div className="footer-sec2-link">
-            <Link className="p-color no-decoration" href="https://discord.gg/X7VTsN7G64">
+            <Link className="p-color no-decoration" href="https://discord.gg/7MQczhh2pS">
               /support-server
             </Link>
             <Link
               target="_blank"
               className="p-color no-decoration"
-              href="https://github.com/AaravMehta59/giva-landing/"
+              href="https://github.com/axrxvm/giva-landing/"
             >
               /source-code
             </Link>
-            <Link className="p-color no-decoration" href="https://aaravm.me/">
+            <Link className="p-color no-decoration" href="https://aarav.is-a.dev/">
               /aarav-mehta
             </Link>
           </div>
